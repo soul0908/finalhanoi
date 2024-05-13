@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33403.129
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hanoi_connectlist", "hanoi_connectlist\hanoi_connectlist.vcxproj", "{7A64D308-47EC-4A03-8BB0-717DDC4C06B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A64D308-47EC-4A03-8BB0-717DDC4C06B0}.Debug|x64.ActiveCfg = Debug|x64
+		{7A64D308-47EC-4A03-8BB0-717DDC4C06B0}.Debug|x64.Build.0 = Debug|x64
+		{7A64D308-47EC-4A03-8BB0-717DDC4C06B0}.Debug|x86.ActiveCfg = Debug|Win32
+		{7A64D308-47EC-4A03-8BB0-717DDC4C06B0}.Debug|x86.Build.0 = Debug|Win32
+		{7A64D308-47EC-4A03-8BB0-717DDC4C06B0}.Release|x64.ActiveCfg = Release|x64
+		{7A64D308-47EC-4A03-8BB0-717DDC4C06B0}.Release|x64.Build.0 = Release|x64
+		{7A64D308-47EC-4A03-8BB0-717DDC4C06B0}.Release|x86.ActiveCfg = Release|Win32
+		{7A64D308-47EC-4A03-8BB0-717DDC4C06B0}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5709EB4-F4EC-41AD-93C2-500A17C2E157}
+	EndGlobalSection
+EndGlobal
